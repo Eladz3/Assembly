@@ -11,4 +11,16 @@ DESCRIPTION ----------
 DIRECTORIES ----------
 
 -
+ASCII_Printing             .asm file that takes inputs and prints "forrest of trees" with the size and quantity specifications.
 
+-
+Basic_Calculator           .lgi file designed to store, add, and return inputs from a single panel.
+
+-
+Basic_Switches             .lgi file covering basic gate logic.
+
+-
+String2Int_Sort1           .asm file that sorts, converts and prints, 3 IEEE inputs in ascending order.
+
+-
+String2Int_Sort2           .asm file that operates on any number of hex inputs. Runs a series of subroutines on input array
